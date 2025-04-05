@@ -1,0 +1,13 @@
+openai
+requests
+deepseek
+groq
+anthropic
+replicate
+aiml
+openrouter
+ollama
+lmstudio
+gpt4all
+huggingface-hub
+python-dotenv
