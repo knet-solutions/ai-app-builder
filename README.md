@@ -42,12 +42,15 @@ AI App Builder is an intelligent Python application that streamlines and automat
 
 ```bash
 git clone https://github.com/knet-solutions/ai-app-builder.git
+cd ai-app-builder
 ```
-
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
 2. Install the required dependencies:
 
 ```bash
-cd ai-app-builder
 pip install -r requirements.txt
 ```
 
